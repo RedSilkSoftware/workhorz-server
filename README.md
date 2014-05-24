@@ -40,3 +40,6 @@ I want to use pure C++11/14 wherever possible and sound. I do this with the inte
 
 ## Help Needed
 I will greatly welcome help at any stage of the process. If you have any expertise that would help make progress in a module, please do contact me.
+
+## Planing
+I try out Kanbanery Integration in GitHub to plan the tasks at hand better.
