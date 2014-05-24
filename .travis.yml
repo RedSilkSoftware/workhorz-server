@@ -1,8 +1,16 @@
+# Programming Language
 language: cpp
+
 # Compilers to run it
 compiler:
   - gcc
   - clang
+
+# Operating Systems
+os:
+  - linux
+  - osx
+
 # Steps to execute before the build
 before_script:
   - mkdir build
