@@ -1,6 +1,13 @@
 language: cpp
+# Compilers to run it
 compiler:
   - gcc
   - clang
-# Change this to your needs
-script: ./configure && make
+# Steps to execute before the build
+before_script:
+  - mkdir build
+  - cd build
+  - cmake
+
+# Build script
+script: make
