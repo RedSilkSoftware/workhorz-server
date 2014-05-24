@@ -29,6 +29,8 @@ I want to use pure C++11/14 wherever possible and sound. I do this with the inte
   * Filesystem
   * Program Options
   * RegEx
+  * Log
+  * perhaps LockFree
 * Google Test >= 1.7
 * Python >= 3.4
 * LibreSSL (probably)
