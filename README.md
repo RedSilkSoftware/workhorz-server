@@ -47,3 +47,4 @@ I try out Kanbanery Integration in GitHub to plan the tasks at hand better.
 ## Integration & Code Analysis
 I'm trying out Travis-CI and Coverity Scan.
 Travis-CI status: ![Build Status](https://travis-ci.org/RedSilkSoftware/workhorz-server.svg?branch=master)
+Coverity Scan status: ...
