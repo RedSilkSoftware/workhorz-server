@@ -42,9 +42,18 @@ I want to use pure C++11/14 wherever possible and sound. I do this with the inte
 I will greatly welcome help at any stage of the process. If you have any expertise that would help make progress in a module, please do contact me.
 
 ## Planing
-I try out Kanbanery Integration in GitHub to plan the tasks at hand better.
+I try out the Kanbanery Integration in GitHub to plan the tasks at hand better.
 
-## Integration & Code Analysis
+## Integration & Development
 I'm trying out Travis-CI and Coverity Scan.
-Travis-CI status: ![Build Status](https://travis-ci.org/RedSilkSoftware/workhorz-server.svg?branch=master)
-Coverity Scan status: ...
+* Travis-CI status: ![Build Status](https://travis-ci.org/RedSilkSoftware/workhorz-server.svg?branch=master) 
+* Coverity Scan (Code Analysis) status: ...
+
+### Development Process
+Vagrant could be used as a development and/or platform-testing environment. Needs more research. 
+* [Vagrant](http://docs.vagrantup.com/)
+
+### Deployment
+Docker or Lmctfy could be a great way to make WorkHorz quickly available to admins. Needs more research. 
+* [Docker](https://www.docker.io/)
+* [Let Me Contain That For You](https://github.com/google/lmctfy)
