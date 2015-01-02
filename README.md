@@ -25,17 +25,18 @@ These are the modules that are planned for the first phase. Depending on the inp
 I want to use pure C++11/14 wherever possible and sound. I do this with the intention to make the development and maintenance easier and the resulting binaries faster. But it is also equally sensible to use good and well tested libraries that offer features which would otherwise be difficult or too lengthy to write myself. Out of all this I have the following list of required technical tools/libs:
 * GCC >= 4.8.2, MSVC >= 2013
 * Intended OS platforms: Linux, OpenBSD, Windows, Mac OS X - (development as of now mainly on Windows)
-* Boost >= 1.56 (to be tested once officially released)
+* Boost >= 1.57 (to be tested once officially released)
   * Filesystem
   * Program Options
   * RegEx
   * Log
   * perhaps LockFree
-* Google Test >= 1.7
+* Google Mock >= 1.7
 * Python >= 3.4
-* OpenSSL
-* dOxygen >= 1.8.7
+* OpenSSL >= 1.0.2
+* dOxygen >= 1.8.9
 * CppFormat (fast string formatting lib, http://cppformat.github.io/)
+* CMake >= 3.1
 * Mongoose Embedded Webserver
 * ...
 
