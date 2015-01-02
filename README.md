@@ -33,9 +33,10 @@ I want to use pure C++11/14 wherever possible and sound. I do this with the inte
   * perhaps LockFree
 * Google Test >= 1.7
 * Python >= 3.4
-* LibreSSL (probably)
+* OpenSSL
 * dOxygen >= 1.8.7
 * CppFormat (fast string formatting lib, http://cppformat.github.io/)
+* Mongoose Embedded Webserver
 * ...
 
 ## Help Needed
