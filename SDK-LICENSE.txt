@@ -1,3 +1,11 @@
+************************************************************************
+All contributors allow their code to be used under the Apache license
+listed below and give their copyright to the owner of the WorkHorz
+project when committing their code.
+
+Users of the SDK agree to the Apache license listed below.
+************************************************************************
+
                                  Apache License
                            Version 2.0, January 2004
                         http://www.apache.org/licenses/
