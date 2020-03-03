@@ -8,7 +8,7 @@ These are the modules that are planned for the first phase. Depending on the inp
   - [ ] Template Cacher
   - [ ] Webserver (HTTP/HTTPS)
     - [ ] Websockets-Server
-  - [ ] LUA Plugin Mgmt. (later more interpreted languages)
+  - [ ] LUA Plugin Mgmt. (later more interpreted languages like https://github.com/cesanta/mjs)
   - [ ] Security Mgmt.
   - [ ] MVC (Server) & MCCV (Server + Client) Paradigm
   - [ ] Balancing Mgmt.
