@@ -1,6 +1,6 @@
 # WorkHorz-Server
 
-A web-application-framework in modern C++ with an integrated bare-essentials webserver and a Python3 plugin ability. Works best for middle- to enterprise-sized websites that need top performance, high security, easy integration into existing OS and libraries and full control over their web-app. The Open-Source version is of course free of charge. Business users should consider the commercial license which frees them to share the source code.
+A web-application-framework in modern C++ with an integrated bare-essentials webserver and a LUA plugin ability. Works best for middle- to enterprise-sized websites that need top performance, high speed, high security, easy integration into existing OS and libraries and full control over their web-app. The Open-Source version is of course free of charge. Business users should consider the commercial license which frees them to share the source code.
 
 ## Planning and Architecture
 These are the modules that are planned for the first phase. Depending on the input and experience with it these may change over time. Docker and/or Kubernetes containers will make the deployment in enterprise servers easier so this is also a requirement now.
@@ -23,7 +23,7 @@ These are the modules that are planned for the first phase. Depending on the inp
     - [ ] Unit-Testing
 - [x] Adminstration and Monitorig
   - [ ] Qt desktop and mobile app for monitoring and configuration (remote access)
-  - [ ] Integration or interconnection with monitoring tools like Nagios and the likes
+  - [ ] Integration or interconnection with monitoring tools like NagiosXI, Icinga, Monitis and the likes
 
 ## Technical Requirements
 I want to use pure C++11/17 wherever possible and sound. I do this with the intention to make the development and maintenance easier and the resulting binaries faster. But it is also equally sensible to use good and well tested libraries that offer features which would otherwise be difficult or too lengthy to write myself. Out of all this I have the following list of required technical tools/libs:
