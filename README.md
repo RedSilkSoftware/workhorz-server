@@ -4,7 +4,7 @@ A web-application-framework in modern C++ with an integrated bare-essentials web
 
 ## Planning and Architecture
 These are the modules that are planned for the first phase. Depending on the input and experience with it these may change over time. Docker and/or Kubernetes containers will make the deployment in enterprise servers easier so this is also a requirement now.
-- [x] Modules
+- [x] Modules and Components
   - [ ] Template Cacher
   - [ ] Webserver (HTTP/HTTPS)
     - [ ] Websockets-Server
@@ -16,6 +16,7 @@ These are the modules that are planned for the first phase. Depending on the inp
   - [ ] Session Mgmt.
   - [ ] Application API (for the customer WebApp)
   - [ ] Logging (to text files and InfluxDB)
+  - [ ] REST-API contruction and scaffolding
   - [ ] ToolCase (mostly external units)
     - [ ] Scaffolding
     - [ ] WebApp Mgmt.
