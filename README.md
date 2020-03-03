@@ -17,6 +17,7 @@ These are the modules that are planned for the first phase. Depending on the inp
   - [ ] Application API (for the customer WebApp)
   - [ ] Logging (to text files and InfluxDB)
   - [ ] REST-API contruction and scaffolding
+  - [ ] RDBMS ORM access to the most used database engines (https://github.com/SOCI/soci)
   - [ ] ToolCase (mostly external units)
     - [ ] Scaffolding
     - [ ] WebApp Mgmt.
