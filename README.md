@@ -15,6 +15,7 @@ These are the modules that are planned for the first phase. Depending on the inp
   - [ ] OS & Utility Module
   - [ ] Session Mgmt.
   - [ ] Application API (for the customer WebApp)
+  - [ ] Logging (to text files and InfluxDB)
   - [ ] ToolCase (mostly external units)
     - [ ] Scaffolding
     - [ ] WebApp Mgmt.
