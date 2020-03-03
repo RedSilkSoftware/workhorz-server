@@ -21,6 +21,9 @@ These are the modules that are planned for the first phase. Depending on the inp
     - [ ] WebApp Mgmt.
     - [ ] Build & Deployment Mgmt.
     - [ ] Unit-Testing
+- [x] Adminstration and Monitorig
+  - [ ] Qt desktop and mobile app for monitoring and configuration (remote access)
+  - [ ] Integration or interconnection with monitoring tools like Nagios and the likes
 
 ## Technical Requirements
 I want to use pure C++11/17 wherever possible and sound. I do this with the intention to make the development and maintenance easier and the resulting binaries faster. But it is also equally sensible to use good and well tested libraries that offer features which would otherwise be difficult or too lengthy to write myself. Out of all this I have the following list of required technical tools/libs:
@@ -33,7 +36,7 @@ I want to use pure C++11/17 wherever possible and sound. I do this with the inte
   * Log
   * perhaps LockFree
 * Catch2 >= 2.11.1 (testing framework, header-only)
-* LUA >= 5.4
+* LUA >= 5.4 (cpp wrapper lib Sol2 https://github.com/ThePhD/sol2)
 * OpenSSL >= 1.1.1
 * dOxygen >= 1.8.18
 * fmt (fast string formatting lib, https://github.com/fmtlib/fmt/)
