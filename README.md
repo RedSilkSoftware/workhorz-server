@@ -8,7 +8,7 @@ These are the modules that are planned for the first phase. Depending on the inp
   - [ ] Template Cacher
   - [ ] Webserver (HTTP/HTTPS)
     - [ ] Websockets-Server
-  - [ ] Python3 Plugin Mgmt.
+  - [ ] LUA Plugin Mgmt. (later more interpreted languages)
   - [ ] Security Mgmt.
   - [ ] MVC (Server) & MCCV (Server + Client) Paradigm
   - [ ] Balancing Mgmt.
@@ -23,20 +23,20 @@ These are the modules that are planned for the first phase. Depending on the inp
 
 ## Technical Requirements
 I want to use pure C++11/14 wherever possible and sound. I do this with the intention to make the development and maintenance easier and the resulting binaries faster. But it is also equally sensible to use good and well tested libraries that offer features which would otherwise be difficult or too lengthy to write myself. Out of all this I have the following list of required technical tools/libs:
-* GCC >= 4.8.2, MSVC >= 2013
+* GCC >= 9.2, MSVC >= 2019 with C++17
 * Intended OS platforms: Linux, OpenBSD, Windows, Mac OS X - (development as of now mainly on Windows)
-* Boost >= 1.57 (to be tested once officially released)
+* Boost >= 1.72 (to be tested once officially released)
   * Filesystem
   * Program Options
   * RegEx
   * Log
   * perhaps LockFree
-* Google Mock >= 1.7
-* Python >= 3.4
-* OpenSSL >= 1.0.2
-* dOxygen >= 1.8.9
-* CppFormat (fast string formatting lib, http://cppformat.github.io/)
-* CMake >= 3.1
+* Catch2 >= 2.11.1 (testing framework, header-only)
+* LUA >= 5.4
+* OpenSSL >= 1.1.1
+* dOxygen >= 1.8.18
+* fmt (fast string formatting lib, https://github.com/fmtlib/fmt/)
+* CMake >= 3.16.4
 * Mongoose Embedded Webserver
 * ...
 
