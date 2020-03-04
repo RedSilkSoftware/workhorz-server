@@ -9,6 +9,7 @@ These are the modules that are planned for the first phase. Depending on the inp
   - [ ] Template Cacher
   - [ ] Webserver (HTTP/HTTPS)
     - [ ] Websockets-Server
+    - [ ] Push-Server
   - [ ] LUA Plugin Mgmt. (later more interpreted languages like https://github.com/cesanta/mjs)
   - [ ] Security Mgmt.
   - [ ] MVC (Server) & MCCV (Server + Client) Paradigm
@@ -20,6 +21,7 @@ These are the modules that are planned for the first phase. Depending on the inp
   - [ ] REST-API contruction and scaffolding
   - [ ] RDBMS ORM access to the most used database engines (https://github.com/SOCI/soci)
   - [ ] Compression outside of HTTP (https://github.com/rikyoz/bit7z)
+  - [ ] Easy to add new APIs to external web services
   - [ ] Apache and nginx compatible configuration of the integrated webserver (highest performance)
     - [ ] Webapps can also run under those with FastCGI if desired
   - [ ] ToolCase (mostly external units)
