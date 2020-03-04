@@ -1,6 +1,6 @@
 # WorkHorz-Server
 
-A web-application-framework in modern C++ with an integrated bare-essentials webserver and a LUA plugin ability. Works best for middle- to enterprise-sized websites that need top performance, high speed, high security, easy integration into existing OS and libraries and full control over their web-app. Also it allows the users to hot-swap between version (on a component level or whole app) to test out things or make the deployment faster. The Open-Source version is of course free of charge. Business users should consider the commercial license which frees them to share the source code.
+A web-application-framework in modern C++ with an integrated bare-essentials webserver and a LUA/Python3 and other scripting language plugin ability. Works best for middle- to enterprise-sized websites that need top performance, high speed, high security, easy integration into existing OS and libraries and full control over their web-app. Also it allows the users to hot-swap between version (on a component level or whole app) to test out things or make the deployment faster. The Open-Source version is of course free of charge. Business users should consider the commercial license which frees them to share the source code.
 
 ## Planning and Architecture
 These are the modules that are planned for the first phase. Depending on the input and experience with it these may change over time. Docker and/or Kubernetes containers will make the deployment in enterprise servers easier so this is also a requirement now.
