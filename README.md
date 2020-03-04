@@ -13,7 +13,7 @@ These are the modules that are planned for the first phase. Depending on the inp
   - [ ] LUA Plugin Mgmt. (later more interpreted languages like https://github.com/cesanta/mjs)
   - [ ] Security Mgmt.
   - [ ] MVC (Server) & MCCV (Server + Client) Paradigm
-  - [ ] Balancing Mgmt.
+  - [ ] Load Balancing Mgmt.
   - [ ] OS & Utility Module
   - [ ] Session Mgmt.
   - [ ] Application API (for the customer WebApp)
