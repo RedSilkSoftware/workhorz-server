@@ -25,6 +25,7 @@ These are the modules that are planned for the first phase. Depending on the inp
   - [ ] Easy to add new APIs to external web services
   - [ ] Apache and nginx compatible configuration of the integrated webserver (highest performance)
     - [ ] Webapps can also run under those with FastCGI if desired
+  - [ ] Use of external caching like with Redis or memcached
   - [ ] ToolCase (mostly external units)
     - [ ] Scaffolding
     - [ ] WebApp Mgmt.
