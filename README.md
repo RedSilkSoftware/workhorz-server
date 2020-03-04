@@ -5,6 +5,7 @@ A web-application-framework in modern C++ with an integrated bare-essentials web
 ## Planning and Architecture
 These are the modules that are planned for the first phase. Depending on the input and experience with it these may change over time. Docker and/or Kubernetes containers will make the deployment in enterprise servers easier so this is also a requirement now.
 - [x] Modules and Components
+  - [ ] Scalable by design (on components level), and easier to keep it scalable
   - [ ] Template Cacher
   - [ ] Webserver (HTTP/HTTPS)
     - [ ] Websockets-Server
