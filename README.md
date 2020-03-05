@@ -11,7 +11,7 @@ These are the modules that are planned for the first phase. Depending on the inp
     - [ ] Websockets-Server
     - [ ] Push-Server
   - [ ] LUA Plugin Mgmt. (later more interpreted languages like https://github.com/cesanta/mjs)
-  - [ ] Security Mgmt.
+  - [ ] Security Mgmt. + securing scripts
   - [ ] MVC (Server) & MCCV (Server + Client) Paradigm
   - [ ] Load Balancing Mgmt.
   - [ ] OS & Utility Module
@@ -26,6 +26,9 @@ These are the modules that are planned for the first phase. Depending on the inp
   - [ ] Apache and nginx compatible configuration of the integrated webserver (highest performance)
     - [ ] Webapps can also run under those with FastCGI if desired
   - [ ] Use of external caching like with Redis or memcached
+  - [ ] Licensing server and management
+  - [ ] Marketplace for 3rd party components
+  - [ ] Easy integration into existing PHP web applications (as an extension)
   - [ ] ToolCase (mostly external units)
     - [ ] Scaffolding
     - [ ] WebApp Mgmt.
