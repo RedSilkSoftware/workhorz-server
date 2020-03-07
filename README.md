@@ -29,6 +29,7 @@ These are the modules that are planned for the first phase. Depending on the inp
   - [ ] Licensing server and management
   - [ ] Marketplace for 3rd party components
   - [ ] Easy integration into existing PHP web applications (as an extension)
+  - [ ] Easy translation of webpages and content
   - [ ] ToolCase (mostly external units)
     - [ ] Scaffolding
     - [ ] WebApp Mgmt.
