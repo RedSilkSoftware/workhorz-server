@@ -32,6 +32,8 @@ These are the modules that are planned for the first phase. Depending on the inp
   - [ ] Easy translation of webpages and content
   - [ ] Chatbots integration (like http://reo7sp.github.io/tgbot-cpp)
   - [ ] JWT Json Web Tokens
+  - [ ] Login/Registration generation
+  - [ ] Auth/Permission generation
   - [ ] ToolCase (mostly external units)
     - [ ] Scaffolding
     - [ ] WebApp Mgmt.
