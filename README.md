@@ -31,6 +31,7 @@ These are the modules that are planned for the first phase. Depending on the inp
   - [ ] Easy integration into existing PHP web applications (as an extension)
   - [ ] Easy translation of webpages and content
   - [ ] Chatbots integration (like http://reo7sp.github.io/tgbot-cpp)
+  - [ ] JWT Json Web Tokens
   - [ ] ToolCase (mostly external units)
     - [ ] Scaffolding
     - [ ] WebApp Mgmt.
