@@ -44,7 +44,7 @@ These are the modules that are planned for the first phase. Depending on the inp
 
 ## Technical Requirements
 I want to use pure C++11/17 wherever possible and sound. I do this with the intention to make the development and maintenance easier and the resulting binaries faster. But it is also equally sensible to use good and well tested libraries that offer features which would otherwise be difficult or too lengthy to write myself. Out of all this I have the following list of required technical tools/libs:
-* GCC >= 9.2, MSVC >= 2019 with C++17
+* GCC >= 9.2 or CLANG >= 9.0, MSVC >= 2019 with C++17
 * Intended OS platforms: Linux, OpenBSD, Windows, Mac OS X - (development as of now mainly on Windows)
 * Boost >= 1.72 (to be tested once officially released)
   * Filesystem
