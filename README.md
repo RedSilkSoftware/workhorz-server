@@ -19,6 +19,7 @@ These are the modules that are planned for the first phase. Depending on the inp
   - [ ] Application API (for the customer WebApp)
   - [ ] Logging (to text files and InfluxDB)
   - [ ] REST-API construction and scaffolding
+  - [ ] GraphQL queries
   - [ ] RDBMS ORM access to the most used database engines (https://github.com/SOCI/soci)
     - [ ] Active Records Pattern integrated for ease of use
   - [ ] Compression outside of HTTP (https://github.com/rikyoz/bit7z)
