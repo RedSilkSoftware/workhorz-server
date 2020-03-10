@@ -35,6 +35,7 @@ These are the modules that are planned for the first phase. Depending on the inp
   - [ ] JWT Json Web Tokens
   - [ ] Login/Registration generation
   - [ ] Auth/Permission generation
+  - [ ] L8n and I18n based on ICU
   - [ ] ToolCase (mostly external units)
     - [ ] Scaffolding
     - [ ] WebApp Mgmt.
