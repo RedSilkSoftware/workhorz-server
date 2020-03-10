@@ -64,6 +64,7 @@ I want to use pure C++11/17 wherever possible and sound. I do this with the inte
 * fmt (fast string formatting lib, https://github.com/fmtlib/fmt/)
 * CMake >= 3.16.4
 * Mongoose Embedded Webserver
+* Monitoring integration (like https://prometheus.io/)
 * Testing generation https://github.com/emil-e/rapidcheck
 * ...
 
