@@ -36,6 +36,7 @@ These are the modules that are planned for the first phase. Depending on the inp
   - [ ] Login/Registration generation
   - [ ] Auth/Permission generation
   - [ ] L8n and I18n based on ICU
+  - [ ] SRL for backend and frontend https://simple-regex.com/
   - [ ] ToolCase (mostly external units)
     - [ ] Scaffolding
     - [ ] WebApp Mgmt.
