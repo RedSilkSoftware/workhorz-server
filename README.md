@@ -33,7 +33,8 @@ These are the modules that are planned for the first phase. Depending on the inp
   - [ ] Easy translation of webpages and content
   - [ ] Chatbots integration (like http://reo7sp.github.io/tgbot-cpp)
   - [ ] JWT Json Web Tokens
-  - [ ] Login/Registration generation
+  - [ ] Login/Registration generation and log aggregation
+    - [ ] Measurements for server monitoring  for tools like Grafana, etc.
   - [ ] Auth/Permission generation
   - [ ] L8n and I18n based on ICU
   - [ ] SRL for backend and frontend https://simple-regex.com/
@@ -45,7 +46,7 @@ These are the modules that are planned for the first phase. Depending on the inp
     - [ ] Unit-Testing
 - [x] Adminstration and Monitorig
   - [ ] Qt desktop and mobile app for monitoring and configuration (remote access)
-  - [ ] Integration or interconnection with monitoring tools like NagiosXI, Icinga, Monitis and the likes
+  - [ ] Integration or interconnection with monitoring tools like Grafana, NagiosXI, Icinga, Monitis and the likes
   - [ ] Visual plugin management
   - [ ] Visual permission management
   - [ ] Browse log files easier with smart filtering to find what you need faster
