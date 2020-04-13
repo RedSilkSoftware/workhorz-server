@@ -67,7 +67,7 @@ I want to use pure C++11/17 wherever possible and sound. I do this with the inte
 * dOxygen >= 1.8.18
 * fmt (fast string formatting lib, https://github.com/fmtlib/fmt/)
 * CMake >= 3.16.4
-* Mongoose Embedded Webserver
+* Mongoose Embedded Webserver or Asio & Beast
 * Monitoring integration (like https://prometheus.io/)
 * Testing generation https://github.com/emil-e/rapidcheck
 * ...
