@@ -44,7 +44,7 @@ These are the modules that are planned for the first phase. Depending on the inp
     - [ ] WebApp Mgmt.
     - [ ] Build & Deployment Mgmt.
     - [ ] Unit-Testing
-- [x] Adminstration and Monitorig
+- [x] Administration and Monitorig
   - [ ] Qt desktop and mobile app for monitoring and configuration (remote access)
   - [ ] Integration or interconnection with monitoring tools like Grafana, NagiosXI, Icinga, Monitis and the likes
   - [ ] Visual plugin management
